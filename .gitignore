@@ -1,4 +1,5 @@
-# Publish only the built page; source files stay local.
+# Publish only the built site; source files stay local.
 /*
 !/index.html
+!/f/
 !/.gitignore
